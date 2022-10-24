@@ -14,4 +14,4 @@ SwiftOS is a multipurpose, advanced PowerPoint Operating System licenced under t
 
 #### Download SwiftOS
 
-You can download the latest version of SwiftOS from here [Download Page](https://linktr.ee/phantomzx77/SwiftOS)
+You can download the latest version of SwiftOS from here [Download Page](https://phantomzx77.github.io/phantomzx77/SwiftOS)
