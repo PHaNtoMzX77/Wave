@@ -1,17 +1,18 @@
 body {
+  font-family: "open-sans", sans-serif;
   background: rgb(46 52 64);
+}
+
+.banner {
   display: flex;
   justify-content: center;
   align-items: center;
+  background: rgb(236 239 244);
+  padding: 10px;
+  
 }
-
-p {
-  font-family: "open-sans", sans-serif;
+p + a{
   font-size: 20px;
   font-weight: semibold;
-  color: rgb(229 233 240);
-}
-
-a {
-  color: rgb(216 222 233);
+  color: rgb(76 86 106);
 }
