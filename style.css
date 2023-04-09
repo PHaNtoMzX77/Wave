@@ -1,8 +1,7 @@
 body {
   font-family: "open-sans", sans-serif;
   background: rgb(46 52 64);
-  display: flex;
-
+  
 }
 
 .Banner {
@@ -11,6 +10,7 @@ body {
   height: 48px;
   padding: 10px;
   border-radius: 8px;
+  display: flex;
   justify-content: center;
   align-items: center;
 }
