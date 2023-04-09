@@ -1,8 +1,9 @@
-background {
-  color: rgb(46 52 64);
+body {
+  background: rgb(46 52 64);
 }
 
 p {
   font-family: "open-sans", sans-serif;
+  font-align: center;
   color: rgb(229 233 240);
 }
