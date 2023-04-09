@@ -2,14 +2,18 @@ body {
   font-family: "open-sans", sans-serif;
   background: rgb(46 52 64);
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .Banner {
   background-color: rgb(236 239 244);
-  width: 60px;
+  width: 300px;
   height: 30px;
   padding: 10px;
   border-radius: 8px;
+  justify-content: center;
+  align-items: center;
 }
 p {
   font-size: 20px;
