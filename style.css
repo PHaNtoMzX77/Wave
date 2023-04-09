@@ -16,7 +16,7 @@ body {
   justify-content: center;
   align-items: center;
 }
-p + a {
+p {
   font-size: 20px;
   font-weight: semibold;
   color: rgb(76 86 106);
