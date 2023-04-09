@@ -1,12 +1,14 @@
 body {
   background: rgb(46 52 64);
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 p {
   font-family: "open-sans", sans-serif;
   font-size: 20px;
   font-weight: semibold;
-  text-align: center;
   color: rgb(229 233 240);
 }
 
