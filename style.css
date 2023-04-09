@@ -11,7 +11,7 @@ body {
   padding: 10px;
   border-radius: 8px;
 }
-p {
+p + a {
   font-size: 20px;
   font-weight: semibold;
   color: rgb(76 86 106);
