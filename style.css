@@ -4,15 +4,16 @@ body {
 }
 
 .box {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  
   background-color: rgb(236 239 244);
   width: 820px;
   height: 48px;
   padding: 10px;
   border-radius: 8px;
+  
+  display: flex;
+  align-items: center;
+  
+  
 }
 
 p {
