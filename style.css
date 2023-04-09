@@ -7,10 +7,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  justify-content: center;
-}
-
-.box div{
+  
   background-color: rgb(236 239 244);
   width: 820px;
   height: 48px;
@@ -22,7 +19,6 @@ p {
   font-size: 20px;
   font-weight: semibold;
   color: rgb(67 76 94);
-  text-align: center;
 }
 
 a {
