@@ -1,8 +1,8 @@
 background {
-  background: hex(#2E3440);
+  color: rgb(46 52 64);
 }
 
 p {
   font-family: "open-sans", sans-serif;
-  color: hex(#E5E9F0)
+  color: rgb(229 233 240);
 }
