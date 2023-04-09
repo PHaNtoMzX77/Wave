@@ -4,15 +4,14 @@ body {
 }
 
 .banner {
+  background: rgb(236 239 244);
+  width: 60px;
+  height: 30px;
+  padding: 10px;
+  border-radius: 8px;
   display: flex;
   justify-content: center;
   align-items: center;
-  
-  width: 60px;
-  height: 30px;
-  background: rgb(236 239 244);
-  padding: 10px;
-  
 }
 p + a {
   font-size: 20px;
