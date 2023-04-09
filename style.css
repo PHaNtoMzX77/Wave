@@ -2,8 +2,6 @@ body {
   font-family: "open-sans", sans-serif;
   background: rgb(46 52 64);
   display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 .banner {
