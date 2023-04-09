@@ -7,11 +7,14 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  
+  width: 60px;
+  height: 30px;
   background: rgb(236 239 244);
   padding: 10px;
   
 }
-p + a{
+p + a {
   font-size: 20px;
   font-weight: semibold;
   color: rgb(76 86 106);
