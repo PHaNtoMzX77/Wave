@@ -13,3 +13,9 @@ header {
   flex-wrap: wrap;
 }
 
+.branding .p.brand-name {
+  color: 76 86 106;
+  font-size: 18vw;
+  font-weight: bold;
+}
+
