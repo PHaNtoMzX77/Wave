@@ -12,13 +12,13 @@ header {
   flex-wrap: wrap;
 }
 
-.branding .p.brand-name {
+.branding .brand-name {
   color: 76 86 106;
   font-size: 18vw;
   font-weight: bold;
 }
 
-.branding .img.brand-logo {
+.branding .brand-logo {
   width: 20%;
   height: 20%;
 }
