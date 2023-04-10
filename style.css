@@ -20,7 +20,6 @@ header {
 
 .branding {
   display: flex;
-  align-items: left;
 }
 
 .brand-logo {
@@ -29,7 +28,7 @@ header {
 }
 
 .brand-name {
-  font-size: 2em;
+  font-size: 1em;
   font-weight: bold;
 }
 
