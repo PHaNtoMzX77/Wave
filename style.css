@@ -1,24 +1,15 @@
 body {
   font-family: "open-sans", sans-serif;
-  background: rgb(236 239 244);
-  margin: 0px 0px 0px 0px;
+  font-weight: semibold;
+  color: 236, 239, 244;
+  background-color: 12, 12, 12;
 }
 
 header {
-  background-color: rgb(255 255 255);
-  width: 100%;
-  height: 42px;
-  padding: 8px 8px 8px 8px;
   display: flex;
-  flex-wrap: wrap;
+  position: fixed;
+  margin: auto;
+  width: 100%;
+  height: 40px
 }
 
-.branding .brand-name {
-  color: 76 86 106;
-  font-size: 18px;
-  font-weight: bold;
-}
-
-.branding .brand-logo {
-  max-width: 6%;
-}
