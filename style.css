@@ -23,7 +23,7 @@ header {
   align-content: flex-start;
 }
 
-.brand-link + .brand-logo {
+.brand-link > .brand-logo {
   cursor: pointer;
   max-width: 8%;
 }
