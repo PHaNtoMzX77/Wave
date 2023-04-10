@@ -26,6 +26,7 @@ header {
 .brand-link > .brand-logo {
   cursor: pointer;
   max-width: 8%;
+  height: 8%;
 }
 
 .brand-name {
