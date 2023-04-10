@@ -37,3 +37,8 @@ header {
   align-items: center;
 }
 
+.navlink {
+  color: inherit;
+  border-radius: 6px;
+  padding: 6px 6px 6px 6px;
+}
