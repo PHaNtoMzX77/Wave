@@ -1,7 +1,6 @@
 body {
   font-family: "open-sans", sans-serif;
   background: rgb(236 239 244);
-  padding: 0px 0px 0px 0px;
 }
 
 header {
@@ -19,3 +18,7 @@ header {
   font-weight: bold;
 }
 
+.branding .img.brand-logo {
+  width: 20%;
+  height: 20%;
+}
