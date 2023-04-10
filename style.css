@@ -20,6 +20,5 @@ header {
 }
 
 .branding .brand-logo {
-  width: 12%;
-  height: 18%;
+  max-width: 40%
 }
