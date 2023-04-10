@@ -1,4 +1,13 @@
 body {
   font-family: "open-sans", sans-serif;
-  background: rgb(46 52 64);
+  background: rgb(236,239,244);
 }
+
+header {
+  background-color: rgb(255,255,255);
+  width: 100%;
+  height: 14%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
