@@ -24,7 +24,7 @@ header {
   align-content: flex-start;
 }
 
-.brand-logo {
+.brand-link {
   cursor: pointer;
   max-width: 8%;
 }
