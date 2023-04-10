@@ -1,8 +1,8 @@
 body {
   font-family: "open-sans", sans-serif;
   font-weight: normal;
-  color: 236 239 244;
-  background-color: 12 12 12;
+  color: rgb(236 239 244);
+  background-color: rgb(12 12 12);
 }
 
 header {
