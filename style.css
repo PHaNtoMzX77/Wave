@@ -1,6 +1,6 @@
 body {
   font-family: "open-sans", sans-serif;
-  font-weight: semibold;
+  font-weight: normal;
   color: 236, 239, 244;
   background-color: 12, 12, 12;
 }
@@ -13,3 +13,20 @@ header {
   height: 40px;
 }
 
+.wrapper {
+  display: flex;
+}
+
+.branding {
+  display: flex;
+  align-items: center;
+}
+
+.brand-logo {
+  cursor: pointer;
+}
+
+.brand-name {
+  font-size: 12px;
+  font-weight: bold;
+  margin-left: 5px;
