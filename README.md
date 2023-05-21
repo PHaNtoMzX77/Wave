@@ -1,2 +1,2 @@
 # WaveDashboard
-The official Wave website repository.
+The official website for the Wave PowerPoint Dashboard.
