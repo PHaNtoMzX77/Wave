@@ -14,38 +14,3 @@ header {
   height: 40px;
   color: rgb(8 8 8);
 }
-
-.wrapper {
-  display: flex;
-}
-
-.branding {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-
-.brand-link > .brand-logo {
-  cursor: pointer;
-  width: 40px;
-  max-width: 100%;
-  height: 40px;
-}
-
-.brand-name {
-  font-size: 1.2em;
-  font-weight: bold;
-  padding-left: 0.1em;
-}
-
-.navbar {
-  display: flex;
-  align-items: right;
-}
-
-.navlink {
-  color: inherit;
-  border-radius: 6px;
-  padding: 6px 6px 6px 6px;
-  text-decoration: none;
-}
