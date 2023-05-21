@@ -25,10 +25,10 @@ header {
   height: 100%;
 }
 
-.navlink {
+.navlink:link {
   width: 40px;
   height: 32px;
-  background-color: rgb(16 17 22);
+  background-color: rgb(20 20 20);
   font-color: rgb(230 230 230);
   border-radius: 6px;
 }
