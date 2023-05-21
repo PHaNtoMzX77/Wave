@@ -14,3 +14,8 @@ header {
   height: 40px;
   color: rgb(16 16 16);
 }
+
+branding {
+  width: 32px;
+  max-width: 100%;
+}
