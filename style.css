@@ -28,8 +28,10 @@ header {
 }
 
 .navarea a {
-  float: right;
+  display: flex;
+  justify-content: flex-end;
   align-items: center;
+  
   padding: 12px 12px 12px 12px;
   background-color: rgb(46 46 46);
   color: rgb(230 230 230);
