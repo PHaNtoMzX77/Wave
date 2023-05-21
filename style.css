@@ -9,7 +9,6 @@ header {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  position: fixed;
   margin: 0;
   padding: 8px 8px 8px 8px;
   width: 100%;
