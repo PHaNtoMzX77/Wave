@@ -20,12 +20,12 @@ header {
   height: 26px;
 }
 
-brand-logo {
+.brand-logo {
   width: 100%;
   height: 100%;
 }
 
-navlink {
+.navlink {
   width: 40px;
   height: 32px;
   background-color: rgb(226 228 234);
