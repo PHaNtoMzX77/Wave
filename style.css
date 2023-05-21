@@ -27,6 +27,10 @@ header {
   height: 100%;
 }
 
+.navarea {
+  justify-content: flex-end;
+}
+
 .navarea a {
   align-items: center;
   padding: 12px 12px 12px 12px;
