@@ -31,5 +31,6 @@ body {
   padding: 6px 6px 6px 6px;
   background-color: rgb(24 24 24);
   color: rgb(230 230 230);
+  text-decoration: none;
   border-radius: 8px;
 }
