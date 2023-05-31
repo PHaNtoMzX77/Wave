@@ -23,7 +23,7 @@ Before installing make sure your PC meets the requirements for the best experien
   - An stable internet connection to install online.
 ```
 
-You'll also need to download the online installer for your edition, once downloaded open up Windows Explorer and right click on the file, then click on'Properties' and check 'Unblock'.
+You'll also need to download the online installer for your edition, once downloaded open up Windows Explorer and right click on the file, then click on 'Properties' and check 'Unblock'.
 
 **Step 1**
 
