@@ -77,16 +77,33 @@ so you can start up Wave from the click of a button.
 - Full Office Suite based on Microsoft Office that will have a word editor, presentation maker, a graph editor and an email client.
 - A messaging service based on the upcoming PowerUI Chat 5.0 with full integration with Wave.#
 - Multiple delivery enrolments, pre-release, beta and canary for testing and reporting development issues with Wave.
-- 
 
 ## Support
+### Wave Support Lifecycle: (Mainstream Release)
+Wave runs on a quartly release cycle and each version is supported for up to 6 months with up to 2 months extended support for a
+total of 8 months of support. 
 
+With mainstream support you'll receive feature updates every 2 months, as well as monthly Quality & Performance roll-up updates and weekly
+security updates.
+
+With extended support, you'll get two more months of Quality & Performance roll-up updates and your weekly security updates. But no
+additional features or services. At the end of extended support you'll have around a week to update before the latest update will require a
+newer version to install that version.
+### Wave Support Lifecycle: (Long-term Servicing)
+Wave also has an LTS version that runs on a semi-annual release cycle, each version is supported for 8 months and up to 4 months extended 
+support for a total of 12 months/an entire year.
+
+With LTS you only have one version that you use for the rest of the support cycle, in mainstream support, each version is updated with
+monthly Quality & Performance roll-up updates and weekly security updates still, but you don't get any feature updates.
+
+With each LTS versions extended support window, you only get weekly security updates. No Quality & Performance roll-up updates. These
+are only really important security updates that keep your system secure for the last 16 weeks of support.
 ## Contributers
 
 ## Translations
+The goal of Wave is to have a universally accessible PPTOS, one that can be used in ANY language. So I have to thank everyone who 
+translated Wave to their own language, this also serves as a list of available languages.
 
+- English (United Kingdom) Translator: PHaNtoMzX77
 
-
-
-
-## PowerPoint Notices
+## Additional Notices
