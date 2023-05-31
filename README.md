@@ -18,7 +18,7 @@ Before installing make sure your PC meets the requirements for the best experien
   - Memory: 8 gigabytes (GB) of RAM.
   - Storage: 6 gigabytes (GB) of free space.
   - Graphics: DirectX 11 or later with dedicated driver.
-  - An stable internet connection for installation and use.
+  - An stable internet connection to install and use.
 ```
 
 You'll also need to download the online installer, once downloaded open up Windows Explorer and right click on the file, then click on 'Properties' and check 'Unblock'.
@@ -105,6 +105,13 @@ normal monthly Quality & Performance updates and weekly security updates, these 
 
 Extended support is a little longer here, mainstream will end after 6 months like normal but extended ends after 4 months like LTS, which
 gives your system 10 months of support. Extended support only gets security updates here to keep the system secure.
+### Additional Support Information
+During extended support you'll receive periodic notifications telling you that "Support will be ending for this version of Wave soon, 
+update now to continue getting updates", you can safely ignore these if you want to for any reason. However, after extended support
+you'll be warned that the system is out of date and you are running out of time to update. We cant hold updates on the server forever.
+
+After extended support, any security issues or bugs won't be fixed or even acknowlegded by the Wave team. Your system will be out of date 
+and cannot be updated any further until you upgrade to a newer version.
 
 ## Contributers
 Thank you to everyone who has contributed to Wave, big or small, it still matters. You can also read the **Translations** section for those
