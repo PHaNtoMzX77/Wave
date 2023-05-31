@@ -1,5 +1,6 @@
 # Wave - The PPTOS by PHaNtoMzX77
-A beautiful and feature rich powerpoint operating system that takes advantage of cloud technology to provide a poweful experience.
+A beautiful and feature rich powerpoint operating system that takes advantage of cloud technology to provide a powerful z& sleek experience. Want
+to check out development and even enroll in release programmes? You should join our <Discord>
 
 ## Install
 Before installing make sure your PC meets the requirements for the best experience.
