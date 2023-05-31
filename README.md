@@ -26,27 +26,33 @@ Before installing make sure your PC meets the requirements for the best experien
 You'll also need to download the online installer, once downloaded open up Windows Explorer and right click on the file, then click on 'Properties' and check 'Unblock'.
 
 **Step 1**
+
 Double click on the online installer file to start it up, depending on your system it may take a few moments. Once it starts you should be greeted with a screen
 asking for your language, select the language you use then click on the 'Next' button (there is also accessibility settings if needed) to begin the setup.
 
 **Step 2**
+
 On the next screen, you'll need to either login to your Wave Account or create a new one, if you create a new one you will be redirected to a website where you
 can make one. After you have done either, you can click 'Login to account' to move on to the next step.
 
 **Step 2**
+
 After logging in, you will need to select how you want Wave to download & install updates, it is recommended to have Automatic updates on so your always secure
 but you may want to have wave only download updates instead of installing them incase there is an issue with a new update. However disabling updates all together
 is an option but will put your copy of Wave, and potentially your main computer at risk of malicous software.
 
 **Step 3**
+
 Next, you need to choose your express settings. These are general privacy and feature settings that can give you more privacy or features at the expense of 
 your experience or giving you a better experience.
 
 **Step 4**
+
 Get ready to install Wave, because this next screen is where you are going to install it. Make sure you have a stable internet connection and some free time
 as this process can take anywhere from 1-2 minutes on capable hardware to 10-20 minutes. During this time just sit back and relax as we do the work for you.
 
 **Step 5**
+
 Once the install is done, you'll have the option to either restart into Wave or just exit the installer. Either way, you now have a shortcut in your start menu
 so you can start up Wave from the click of a button.
 
