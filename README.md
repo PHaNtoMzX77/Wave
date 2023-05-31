@@ -19,10 +19,12 @@ Before installing make sure your PC meets the requirements for the best experien
   - Memory: 8 gigabytes (GB) of RAM.
   - Storage: 6 gigabytes (GB) of free space.
   - Graphics: DirectX 11 or later with dedicated driver.
-  - An stable internet connection to install and use.
+  - An stable internet connection to install online.
 ```
 
-You'll also need to download the online installer, once downloaded open up Windows Explorer and right click on the file, then click on 'Properties' and check 'Unblock'.
+You'll also need to download the online installer for your edition, once downloaded open up Windows Explorer and right click on the file, then click on
+'Properties' and check 'Unblock'. Optionally, you can download the offline installer but that only supports LSE and doesn't allow for online account 
+signin, where as the online one does and supports all editions.
 
 **Step 1**
 
