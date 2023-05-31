@@ -5,7 +5,6 @@ A beautiful and feature rich powerpoint operating system that takes advantage of
 Before installing make sure your PC meets the requirements for the best experience.
 
 ```bash
-  
   Minimum Specifications:
   - Latest version of Windows 7 SP1 or Windows 8.1 running on x86.
   - Processor: 1.5 GHz or better.
@@ -20,7 +19,6 @@ Before installing make sure your PC meets the requirements for the best experien
   - Storage: 6 gigabytes (GB) of free space.
   - Graphics: DirectX 11 or later with dedicated driver.
   - An stable internet connection for installation and use.
-
 ```
 
 You'll also need to download the online installer, once downloaded open up Windows Explorer and right click on the file, then click on 'Properties' and check 'Unblock'.
