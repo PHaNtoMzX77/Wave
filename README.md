@@ -7,14 +7,14 @@ Before installing make sure your PC meets the requirements for the best experien
 ```bash
   
   Minimum Specifications:
-  - Latest version of Windows 7 SP1 or Windows 8.1 running x64.
+  - Latest version of Windows 7 SP1 or Windows 8.1 running on x86.
   - Processor: 1.5 GHz or better.
   - Memory: 4 gigabytes (GB) of RAM.
   - Storage: 2 gigabytes (GB) of free space.
   - Graphics: DirectX 9 or later with WDDM 1.0 driver.
   
   Recommended Specifications:
-  - Latest version of Windows 10/11
+  - Latest version of Windows 10/11 running on x64
   - Processor: 2.33 GHz or better.
   - Memory: 8 gigabytes (GB) of RAM.
   - Storage: 6 gigabytes (GB) of free space.
@@ -98,7 +98,23 @@ monthly Quality & Performance roll-up updates and weekly security updates still,
 
 With each LTS versions extended support window, you only get weekly security updates. No Quality & Performance roll-up updates. These
 are only really important security updates that keep your system secure for the last 16 weeks of support.
+### Wave Support Lifecycle: (Legacy Systems Edition)
+Wave also has a smaller Edition called Wave LSE, this version runs a seperate GUI framework and is much more lightweight. It is primarily
+built for old computers that need an extra stretch of life.
+
+You'll get your quartly updates but they will be less feature-rich as porting modern features to legacy is difficult, you'll still get
+normal monthly Quality & Performance updates and weekly security updates, these updates are essential for maintenance.
+
+Extended support is a little longer here, mainstream will end after 6 months like normal but extended ends after 4 months like LTS, which
+gives your system 10 months of support. Extended support only gets security updates here to keep the system secure.
+
 ## Contributers
+Thank you to everyone who has contributed to Wave, big or small, it still matters. You can also read the **Translations** section for those
+who helped with translating.
+
+- Thanks to TWGStud10 for design help and coding the scrollbar system.
+- Thanks to Pengu. for helping me with the update service and all my previous projects as well.
+- Thanks to MinecraftJava89 for support with cloud services, namely the account service and other online services
 
 ## Translations
 The goal of Wave is to have a universally accessible PPTOS, one that can be used in ANY language. So I have to thank everyone who 
@@ -107,3 +123,5 @@ translated Wave to their own language, this also serves as a list of available l
 - English (United Kingdom) Translator: PHaNtoMzX77
 
 ## Additional Notices
+You may run into compatibility issues when using Office 2013 and below with Waves Mainstream & LTS Releases. We recommend using
+legacy for these PowerPoint versions.
