@@ -12,6 +12,7 @@ Before installing make sure your PC meets the requirements for the best experien
   - Memory: 4 gigabytes (GB) of RAM.
   - Storage: 2 gigabytes (GB) of free space.
   - Graphics: DirectX 9 or later with WDDM 1.0 driver.
+  - An stable internet connection to install online.
   
   Recommended Specifications:
   - Latest version of Windows 10/11 running on x64
@@ -22,9 +23,7 @@ Before installing make sure your PC meets the requirements for the best experien
   - An stable internet connection to install online.
 ```
 
-You'll also need to download the online installer for your edition, once downloaded open up Windows Explorer and right click on the file, then click on
-'Properties' and check 'Unblock'. Optionally, you can download the offline installer but that only supports LSE and doesn't allow for online account 
-signin, where as the online one does and supports all editions.
+You'll also need to download the online installer for your edition, once downloaded open up Windows Explorer and right click on the file, then click on'Properties' and check 'Unblock'.
 
 **Step 1**
 
