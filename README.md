@@ -129,4 +129,7 @@ translated Wave to their own language, this also serves as a list of available l
 
 ## Additional Notices
 You may run into compatibility issues when using Office 2013 and below with Waves Mainstream & LTS Releases. We recommend using
-legacy for these PowerPoint versions.
+legacy edition for these PowerPoint versions.
+
+If your system does not support x64-bit architecture you cannot use Mainstream or LTS either, and you will be forced to use legacy
+release.
