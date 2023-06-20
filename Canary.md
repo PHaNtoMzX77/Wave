@@ -6,6 +6,10 @@ You can download the latest candidate, or scroll through the [archive](https://p
 
 [Download Latest Canary Candidate](https://mega.nz/file/BuEjUbJS#Fj4MJL-u0ayr0Pi63C-7Mmehm4arMcPPmY3cMny0wlU)
 
-## Images
+## Imagge
+![Default Desktop](image.jpg)
+![Notes App](image.jpg)
+![Showing personalisation options](image.jpg)
+![Showing update screen](image.jpg)
 
 ## Support Information
