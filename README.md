@@ -27,8 +27,7 @@ You'll also need to download the online installer for your edition, once downloa
 
 **Step 1**
 
-Double click on the online installer file to start it up, depending on your system it may take a few moments. Once it starts you should be greeted with a screen
-asking for your language, select the language you use then click on the 'Next' button (there is also accessibility settings if needed) to begin the setup.
+Double click on the online installer file to start it up, depending on your system it may take a few moments. Once it starts you should be greeted with a screen asking for your language, select the language you use then click on the 'Next' button (there is also accessibility settings if needed) to begin the setup.
 
 **Step 2**
 
@@ -53,17 +52,17 @@ as this process can take anywhere from 1-2 minutes on capable hardware to 10-20 
 
 **Step 5**
 
-Once the install is done, you'll have the option to either restart into Wave or just exit the installer. Either way, you now have a shortcut in your start menu
-so you can start up Wave from the click of a button.
+Once the install is done, you'll have the option to either restart into Wave or just exit the installer. Either way, you now have a shortcut in your start menu so you can start up Wave from the click of a button.
 
 ## Features
 
 - Automatic Cloud-Based Update System that has multiple delivery options.
-- Online account system for signing into Wave, Software and Web services
+- Many personalisation options like wallpapers, system themes and accent colours.
 
 ## Future Plans
 
-- Full personalisation options with custom colours, wallpapers and immersive system sounds.
+- Online account system for signing into Wave, Software and Web services
+- Immersive system sounds.
 - Account customisation like profile pictures and email changing.
 - Multiple user accounts for sharing Wave on the same system.
 - Wave Store for downloading additional software and updating software for Wave.
@@ -121,8 +120,7 @@ Thank you to everyone who has contributed to Wave, big or small, it still matter
 who helped with translating.
 
 - Thanks to TWGStud10 for design help and coding the scrollbar system.
-- Thanks to Pengu. for helping me with the update service and all my previous projects as well.
-- Thanks to MinecraftJava89 for support with cloud services, namely the account service and other online services
+- Thanks to Pengu. for helping me with the update service and the account service
 
 ## Translations
 The goal of Wave is to have a universally accessible PPTOS, one that can be used in ANY language. So I have to thank everyone who 
