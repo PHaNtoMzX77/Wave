@@ -34,7 +34,7 @@ The full archive for every version of Wave, all available for download here.
 
 | Name | Version | Release Date | Supported | Size | Download|
 |-|-|-|-|-|-|
-|Wave Build 9|0.00.4|19/06/2023|No|29.9 MB|[Download](https://mega.nz/file/EyUWxBgS#rJfK7p2FgjYjcBYshBJNpJVl3Pkb69Bv4fu7ARFKk7Q)|
+|Wave Build 9|0.00.4|19/06/2023|Extended|29.9 MB|[Download](https://mega.nz/file/EyUWxBgS#rJfK7p2FgjYjcBYshBJNpJVl3Pkb69Bv4fu7ARFKk7Q)|
 
 ### Wave Pre-Release
 
