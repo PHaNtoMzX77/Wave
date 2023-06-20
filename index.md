@@ -23,3 +23,5 @@ You can download multiple versions of Wave to fit your needs, we also have an ex
 ## Our goals
 
 ## Community
+
+### Join the Official Wave [Discord Server](https://discord.gg/mVVpDZ2Gcs).
