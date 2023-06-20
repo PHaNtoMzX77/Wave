@@ -6,7 +6,7 @@ You can download the latest candidate, or scroll through the [archive](https://p
 
 [Download Latest Canary Candidate](https://mega.nz/file/BuEjUbJS#Fj4MJL-u0ayr0Pi63C-7Mmehm4arMcPPmY3cMny0wlU)
 
-## Imagge
+## Screenshots
 ![Default Desktop](https://phantomzx77.github.io/Wave/Previews/Canary/CanaryPreview0.png)
 
 ![Notes App](https://phantomzx77.github.io/Wave/Previews/Canary/CanaryPreview1.png)
