@@ -4,7 +4,7 @@ New beta builds are released weekly, they reflect the major changes throughout t
 ## Downloads
 You can download the latest candidate, or scroll through the [archive](https://phantomzx77.github.io/Wave/Archive).
 
-[Download Latest Beta Candidate]()
+[Download Latest Beta Candidate](https://mega.nz/file/EyUWxBgS#rJfK7p2FgjYjcBYshBJNpJVl3Pkb69Bv4fu7ARFKk7Q)
 
 ## Images
 
