@@ -6,17 +6,19 @@ You can download multiple versions of Wave to fit your needs, we also have an ex
 
 ### Wave Stable
 
-[Stable](https://phantomzx77.github.io/Wave/Stable)
-[LTS](https://phantomzx77.github.io/Wave/LTS)
-[Legacy](https://phantomzx77.github.io/Wave/Legacy)
+[Download Stable](https://phantomzx77.github.io/Wave/Stable)
+
+[Download LTS](https://phantomzx77.github.io/Wave/LTS)
+
+[Download Legacy](https://phantomzx77.github.io/Wave/Legacy)
 
 ### Wave Experimental
 
-[Canary](https://phantomzx77.github.io/Wave/Canary)
+[Download Canary](https://phantomzx77.github.io/Wave/Canary)
 
-[Beta](https://phantomzx77.github.io/Wave/Beta)
+[Download Beta](https://phantomzx77.github.io/Wave/Beta)
 
-[Pre-Release](https://phantomzx77.github.io/Wave/PreRelease)
+[Download Pre-Release](https://phantomzx77.github.io/Wave/PreRelease)
 
 ## Our goals
 
