@@ -75,7 +75,6 @@ Once the install is done, you'll have the option to either restart into Wave or 
 - Multi-purpose calculator application that will do basic and advanced calculations as well as other types like data.
 - Full Office Suite based on Microsoft Office that will have a word editor, presentation maker, a graph editor and an email client.
 - A messaging service based on the upcoming PowerUI Chat 5.0 with full integration with Wave.#
-- Multiple delivery enrolments, pre-release, beta and canary for testing and reporting development issues with Wave.
 - A Virtual PPTOS software that lets you make simple pptoses inside of Wave and run other pptoses in Wave as well.
 
 ## Support
