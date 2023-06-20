@@ -13,7 +13,9 @@ You can download multiple versions of Wave to fit your needs, we also have an ex
 ### Wave Experimental
 
 [Canary](https://phantomzx77.github.io/Wave/Canary)
+
 [Beta](https://phantomzx77.github.io/Wave/Beta)
+
 [Pre-Release](https://phantomzx77.github.io/Wave/PreRelease)
 
 ## Our goals
