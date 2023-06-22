@@ -4,7 +4,7 @@ Canary releases are brought to you every day, they are extremely fun to mess aro
 ## Downloads
 You can download the latest candidate, or scroll through the [archive](https://phantomzx77.github.io/Wave/Archive).
 
-[Download Latest Canary Candidate](https://mega.nz/file/BuEjUbJS#Fj4MJL-u0ayr0Pi63C-7Mmehm4arMcPPmY3cMny0wlU)
+[Download Latest Canary Candidate](https://mega.nz/folder/x2Fy1Cwb#F-SGl3SdC8m-wIL8jrcjsQ)
 
 ## Screenshots
 ![Default Desktop](https://phantomzx77.github.io/Wave/Previews/Canary/CanaryPreview0.png)
