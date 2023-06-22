@@ -15,4 +15,11 @@ You can download the latest candidate, or scroll through the [archive](https://p
 
 ![Showing update screen](https://phantomzx77.github.io/Wave/Previews/Canary/CanaryPreview3.png)
 
+## Changelog
+
+**What's new in release 11 for Canary:**
+- Added the update system functionality to download updates.
+- Fixed a bug where setup would not display unless the user unhided the slide.
+- Fixed a bug where the battery icon would not conform to theme options.
+- Changed the battery updating system to update when on the desktop so it's more accurate.
 ## Support Information
